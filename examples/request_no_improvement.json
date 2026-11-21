@@ -1,0 +1,9 @@
+{
+  "sample_rate": 48000,
+  "target_delay": 1,
+  "gain_limit": 2.0,
+  "impulse_responses": [
+    [0.0, 1.0],
+    [0.0, 1.0]
+  ]
+}
